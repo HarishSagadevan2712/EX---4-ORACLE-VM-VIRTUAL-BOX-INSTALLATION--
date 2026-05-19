@@ -141,6 +141,7 @@ Step 19: Login to Kali Linux
 .sh method
 # PROGRAM
 Shell script to add two numbers:
+
 <img width="666" height="475" alt="image" src="https://github.com/user-attachments/assets/1b56d378-b4ea-4c6e-8c0e-b8deb76c83d9" />
 
 # EXPECTED OUTPUT
